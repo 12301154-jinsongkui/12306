@@ -65,7 +65,4 @@ class Helper_Http
 
         return $result;
     }
-    public function httpspost(){
-        echo "this is a git test";
-    }
 }
